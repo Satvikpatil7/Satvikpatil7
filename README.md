@@ -1,4 +1,4 @@
-![I'm Satvik Patil](I'm Satvik Patil.png)
+![I'm Satvik Patil](Banner.png)
 
 ## Hi there 👋
 
