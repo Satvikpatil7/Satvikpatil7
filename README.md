@@ -1,3 +1,5 @@
+![I'm Satvik Patil](I'm Satvik Patil.png)
+
 ## Hi there 👋
 
 <!--
