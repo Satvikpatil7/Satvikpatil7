@@ -1,4 +1,3 @@
-![Hi, I'm Satvik Patil](Banner.png)
 
 ## 👋 Hi, I'm Satvik Patil  
 
