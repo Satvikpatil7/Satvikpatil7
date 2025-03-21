@@ -1,26 +1,56 @@
+# 👋 Hi, I'm Satvik Patil!  
 
-## 👋 Hi, I'm Satvik Patil  
+## 🚀 About Me  
+I'm **Satvik Maruti Patil**, a Computer Science student with a passion for **building impactful solutions** and **seamless user experiences**. I thrive on solving challenges, exploring new technologies, and collaborating with like-minded individuals to create innovative products.  
 
-Hi! I'm **Satvik Maruti Patil**, a Computer Science student with a passion for turning ideas into impactful solutions. My curiosity drives me to explore and master tools, technologies, and techniques that create meaningful user experiences. I’m a team player who thrives in collaborative environments, with a strong belief in continuous learning and personal growth.
+With a **growth mindset** and a **keen eye for design**, I aim to bridge the gap between functionality and aesthetics—turning ideas into reality.  
 
-### 🌟 **Who Am I?**  
-- A developer passionate about creating seamless user experiences with **HTML**, **CSS**, **JavaScript**, and **React.js**.  
-- A designer with an eye for aesthetics, utilizing tools like **Figma** and **Canva** to prototype and refine ideas.  
-- A problem solver skilled in **debugging**, **time management**, and adapting to challenges.  
-- A communicator who values teamwork and leadership, ensuring every project is driven by shared goals and innovation.  
+---
 
-### 💻 **My Toolbox**  
-- **Languages**: C, Java, Python  
-- **Front-end Technologies**: HTML, CSS, JavaScript, React.js  
-- **Database**: SQL  
-- **Design Tools**: Figma, Canva  
-- **Cloud Knowledge**: AWS (basic)  
+## 🌟 What I Do  
 
-### 🌐 **Connect with Me**  
-- [Portfolio](https://my-profile-three-omega.vercel.app/)  
-- [LinkedIn](https://in/satvikpatil)  
-- [LeetCode](https://leetcode.com/u/satvikmpatil/)  
-- [Twitter](https://x.com/SatvikMPatil?s=09)  
+🔹 **Full-Stack Developer** – Crafting responsive and dynamic applications using **JavaScript, React.js, and SQL**.  
+🔹 **UI/UX Enthusiast** – Designing intuitive interfaces with **Figma & Canva** for a pixel-perfect experience.  
+🔹 **Problem Solver** – Debugging, optimizing, and enhancing performance to ensure scalable solutions.  
+🔹 **Collaborator & Leader** – Strong communication skills to drive projects with teamwork and innovation.  
 
-### 🌱 **What Drives Me?**  
-With a growth mindset and a love for challenges, I aim to innovate and inspire through my work. Let’s create something extraordinary together!  
+---
+
+## 🛠 Tech Stack  
+
+### 👨‍💻 Languages  
+- C | Java | Python  
+
+### 🖥 Frontend  
+- **HTML | CSS | JavaScript | React.js**  
+
+### 🗄 Backend & Database  
+- **SQL** (MySQL, PostgreSQL)  
+
+### 🎨 UI/UX & Design  
+- **Figma | Canva**  
+
+### ☁ Cloud & DevOps  
+- **AWS (Basic)**  
+
+---
+
+## 📊 GitHub Stats  
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satvikpatil7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satvikpatil7&" alt="GitHub Streak" />
+</p>  
+
+---
+
+## 🌍 Connect with Me  
+💼 [Portfolio](https://my-profile-three-omega.vercel.app/)  
+🔗 [LinkedIn](https://linkedin.com/in/satvikpatil)  
+💡 [LeetCode](https://leetcode.com/u/satvikmpatil/)  
+🐦 [Twitter](https://x.com/SatvikMPatil?s=09)  
+
+---
+
+💡 **Let's build something amazing together!** 🚀  
